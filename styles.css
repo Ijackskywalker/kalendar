@@ -47,8 +47,10 @@ td {
     padding: 25px;
     border-radius: 15px;
     cursor: pointer;
-    
 
+}
+.td:hover{
+background:#aaaaaa;
 }
 .b1{
     background-color: red;
